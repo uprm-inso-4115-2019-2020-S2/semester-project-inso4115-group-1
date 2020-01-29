@@ -2,7 +2,8 @@
 
 #### Current Contributors
 Oni D. Castillo      
-Juan Ramos
+Juan Ramos    
 Manuel E Portela      
-Jose M. Tua 
-Everson Rodriguez
+Jose M. Tua     
+Everson Rodriguez    
+Jan P Culpeper-Bermudez
