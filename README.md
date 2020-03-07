@@ -4,8 +4,8 @@
 Oni D. Castillo      
 Manuel E. Portela      
 Jose M. Tua     
-Christopher Vegerano-Lopez
-Ricardo A. Natal
+Christopher Vegerano-Lopez   
+Ricardo A. Natal   
 Javier A. Ortiz
 
 
