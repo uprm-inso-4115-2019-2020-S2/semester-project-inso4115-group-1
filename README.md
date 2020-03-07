@@ -11,6 +11,6 @@ Javier A. Ortiz
 
 
 #### Old Contributors
-Everson R. Rodriguez-Muniz
-Jan P Culpeper-Bermudez
-Juan D. Ramos    
+Everson R. Rodriguez-Muniz    
+Jan P Culpeper-Bermudez    
+Juan D. Ramos      
