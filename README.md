@@ -2,8 +2,15 @@
 
 #### Current Contributors
 Oni D. Castillo      
-Juan Ramos    
-Manuel E Portela      
+Manuel E. Portela      
 Jose M. Tua     
-Everson Rodriguez    
+Christopher Vegerano-Lopez
+Ricardo A. Natal
+Javier A. Ortiz
+
+
+
+#### Old Contributors
+Everson R. Rodriguez-Muniz
 Jan P Culpeper-Bermudez
+Juan D. Ramos    
